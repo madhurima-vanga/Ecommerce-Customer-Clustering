@@ -1,3 +1,5 @@
+**Clustering based on survey data of a running footwear & apparel company**
+
 **Objective**: To group the customers of a running footwear & apparel company based on the inputs collected through a survey
 
 
