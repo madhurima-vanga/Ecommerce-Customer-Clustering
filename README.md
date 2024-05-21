@@ -9,14 +9,14 @@
 
 **Insights and Recommendations**:
 From Kmeans clusters we have seen that
-- Group-1 are from age groups - Under 18, 18-24; group-2 are from age groups 25-34, group-0 are from 35-44.
-- Group - 0
+- group-1 are from age groups - Under 18, 18-24; group-2 are from age groups 25-34, group-0 are from 35-44.
+- Group - 0 characteristics
   - age 35-44
   - 3+ pairs of running shoes, some that I use for training and others that I use to race.
   - 5+ pairs of running shoes depending on the type of training and racing that I'm doing.
-- Group - 1
- - age Under 18, 18-24
-- Group - 2
+- Group - 1 characteristics
+  - age Under 18, 18-24
+- Group - 2 characteristics
   - age 25-34
 
 - It looks like age group is a driving factor for people behaviours and purchases, I would recommend the company teams to analyze more on how different other characteristics of these groups are and how they are buying
