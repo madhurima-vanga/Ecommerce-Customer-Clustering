@@ -20,4 +20,4 @@ From Kmeans clusters we have seen that group-1 are from age groups - Under 18, 1
   - age 25-34
 - It looks like age group is a driving factor for people behaviours and purchases, I would recommend the company teams to analyze more on how different other characteristics of these groups are and how they are buying
 - They can develop marketing events/material etc. based on group specific characteristics and broadly based on age groups
-- Also, if there is more data to analyze we can interpret the behaviour more well. So, would recommend the company to also collect more data
+- Also, if there is more data to analyze we can interpret the behaviour more well. So, would recommend the company to also collect more data, as we only have 175 records in the data currently
