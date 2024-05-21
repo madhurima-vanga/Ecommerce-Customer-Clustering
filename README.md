@@ -4,6 +4,7 @@
 
 
 **Data Dictionary:**
+
 ![image](https://github.com/madhurimareddyv/Clustering-based-on-survey-data-of-a-running-footwear-apparel-company/assets/165343880/8e13d722-dc27-4856-a2f4-dcb31015b58a)
 
 
